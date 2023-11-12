@@ -1,0 +1,24 @@
+#time{
+    position: relative;
+    left:50px;
+    font-size: 30px;
+}
+
+#buttons{
+    position: relative;
+    top:20px;
+    width:auto;
+    padding:10px;
+}
+
+#start{
+    font-weight: bold;
+}
+
+#stop{
+    font-weight: bold;
+}
+
+#reset{
+    font-weight: bold;
+}
